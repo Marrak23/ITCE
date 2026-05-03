@@ -1,5 +1,5 @@
 These files were created for the course 
-INTERFACE THEORY AND COMPUTATIONAL ELECTROCATALYSIS in 2025.
+INTERFACE THEORY AND COMPUTATIONAL ELECTROCATALYSIS in 2026.
 
 The code can also be accesed on:
 
