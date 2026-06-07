@@ -14,3 +14,5 @@ The code can also be accesed on:
 [Exercise 3.2: Bikerman](https://colab.research.google.com/drive/1Z3zjHgEr4jLoAlMvGJppKs7mRB5H82RB)
 
 [Exercise 3.3 (extra): Bikerman + different size coefficients](https://colab.research.google.com/drive/1_cLFcdo7K2CbOXCflCR49RaF6StM-QkV)
+
+[Exercise 4: Butler--Volmer](https://colab.research.google.com/drive/1FZ3g_vgC0udO8TAidJvUdCZafoTb8Vf-#scrollTo=c4o5IzPGETcz)
